@@ -10,6 +10,7 @@ function findItemsOver20(itemList){
        results.push(listItem);
       } 
     }
+    
     return results;
     //console.log(results)
   }
